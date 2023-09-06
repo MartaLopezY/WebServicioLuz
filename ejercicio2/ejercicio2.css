@@ -1,0 +1,252 @@
+dt {
+font-weight: normal; !important
+}
+#hog:hover, #neg:hover, #cities:hover, #grandesCli:hover, #comunid:hover,#menuluz:hover, #menugas:hover, #menumov:hover, #menusolar:hover, #menuefi:hover, #menuint:hover{
+background-color:green;
+color:white;
+}
+
+#idiomas:hover, #contacto:hover{
+    color:green;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+               -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+}
+#botPLuz:hover, #botges:hover{
+ box-shadow: 6px 6px 10px -1px rgba(0, 80, 0, 0.7),
+                            -6px -6px 10px -1px rgba(0, 128, 0, 0.15);
+}
+#aPersonal:hover, #Personal:hover, #search:hover, #icobuscar:hover{
+background-color:green;
+color:white;
+}
+footer i:hover{
+background-color:#8a9976;
+color:white;
+}
+#tarjeta:hover, #tarjeta2:hover, #tarjeta3:hover{
+color:darkgreen;
+box-shadow: 0 0 10px 0 darkgreen inset, 0 0 10px 4px darkgreen;
+}
+#principal{
+position: fixed;
+transition: top 0.3s;
+display:inline-block;
+top:0px;
+z-index:2;
+background-color:#F4FBEB;
+margin-right-color:#F4FBEB;
+}
+
+#submenu{
+
+margin-top:40px;
+}
+#menu,#hog, #submenu {
+background-color:#F4FBEB;
+}
+#hog, #cities, #grandesCli, #comunid, #neg{
+color:black;
+}
+#menucontacto{
+
+background-color:#F4FBEB;
+position: fixed;
+right: 50px;
+}
+#contacto{
+color:black;
+}
+#menIdiomas{
+background-color:#F4FBEB;
+position: fixed;
+right: 0px;
+}
+#idiomas{
+color:black; !important
+}
+#submenuColap{
+align-items: center;
+}
+#logo{
+border:solid #F4FBEB;
+}
+#menuluz, #menugas, #menumov, #menusolar, #menuefi, #menuint{
+color:green;
+}
+#buscar{
+position: absolute;
+right: 200px;
+}
+#formu{
+position:absolute,left:50%,right:0%;
+}
+#search{
+background-color:#F4FBEB;
+border-color:white;
+}
+#icobuscar{
+color:green;
+font-size: 1.5rem;
+}
+#barra{
+margin-top:10px;
+margin-bottom:10px;
+}
+#aPersonal{
+position: absolute;
+right: 0px;
+}
+#Personal{
+color:green;
+}
+#icopersona{
+font-size: 1.5rem;
+}
+#contenedorsubmenu{
+background-color:#F4FBEB;
+color:black;
+}
+#luz, #gas, #movElectrica, #solar, #eficiencia, #interesa {
+border-top:solid green;
+padding-bottom:30px;
+}
+.tablamenu{
+width:100%
+}
+.submenuDes{
+color:black; !important
+}
+#planluz{
+width:80%;
+}
+#calculadora{
+width:60%;
+}
+.subsubmenuDes{
+color:grey;
+display: flex;
+justify-content:center;
+}
+#imagas{
+width:80%;
+}
+#contador, #controlMovil, #temperatura{
+width:90%;
+}
+.imagsubmenu{
+padding-right:10px;
+}
+.ajustemovElec{
+padding-right:15px;
+}
+#vehiculo, #km, #molino, #topegas{
+width:70%;
+}
+#imasolar{
+width:50%;
+}
+#tarifa{
+width:40%;
+}
+.submenusolar, .submenueficiencia, .submenuinteresa{
+color:grey;
+}
+#ajustecarousel{
+
+height:100%;
+margin-top:5%;
+}
+#carouselactivo{
+margin-top:20px;
+margin-bottom:100px;
+}
+#carouselEmp, #carouselCli{
+height:600px;
+width:auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#lineaTarjetas{
+margin-top:20px;
+margin-bottom:100px;
+}
+#descubre{
+text-align:center;
+margin-top:30px;
+margin-bottom:30px;
+}
+#tarjeta, #tarjeta2, #tarjeta3{
+border:solid 3px green;
+background-color:#F4FBEB;
+}
+#edificios, #taza, #maletin{
+font-size: 8rem;
+display: flex;justify-content:center;
+padding-top:20px;
+padding-bottom:20px;
+border-bottom:dotted green;
+}
+#titulo1, #text1,#titulo2, #text2,#titulo3, #text3{
+text-align:center;
+}
+#botTarj, #botTarj2, #botTarj3{
+display:block;
+justify-content:center;
+margin:10px 25px 10px 25px;
+}
+#lineabotonplanes{
+margin-top:20px;
+margin-bottom:100px;
+}
+#botPLuz, #botges{
+width:25%;
+height:50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#contGestiones{
+background-color:#F4FBEB;
+margin-bottom:20px;
+padding: 20px;
+}
+#gestionline, #explgestion{
+text-align:center;
+}
+#menugestiones{
+background-color:#F4FBEB;
+border:hidden;
+}
+#bothoja ,#botdolar ,#botFuego, #botbandera{
+margin:10px 250px 10px 250px; !important
+}
+.ajusteico{
+float:left;
+}
+#hoja, #dolar, #icoFuego, #bandera{
+font-size: 2rem;
+}
+#lineagestiones{
+margin-top:20px;
+margin-bottom:20px;
+}
+#pie{
+background-color:#91A971;
+padding-right:10px;
+padding-left:10px;
+}
+#lineafooter1{
+margin-bottom:20px;
+}
+#facebook, #twitter, #youtube, #apple, #android{
+font-size: 2rem;
+}
+#ayuda, #tarLuz, #tarGas, #tarSol, #infoUtil, #consAhorro{
+border-right:solid black 1px;
+font-family:alegreya-light;
+}
+#textpie{
+font-family:alegreya-light;
+background-color: rgba(0, 0, 0, 0.05);
+}
